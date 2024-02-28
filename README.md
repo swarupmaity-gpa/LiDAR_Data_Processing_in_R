@@ -14,7 +14,7 @@ Execute the R script lidar_processing.R to process the LiDAR data and generate v
 # Contents
 lidar_processing.R: R script for processing LiDAR data, including reading LAS/LAZ files, generating Digital Terrain Models (DTM) and Digital Surface Models (DSM), and creating hillshade representations.
 Point_Cloud_Q240_7_runs_public.laz: Sample LAS/LAZ file containing LiDAR point cloud data.
-Acknowledgements
+# Acknowledgements
 The LiDAR data used in this project is provided by https://quantum-systems.com/qube-240-2/
 # License
 This project is licensed under the MIT License.
