@@ -16,6 +16,6 @@ lidar_processing.R: R script for processing LiDAR data, including reading LAS/LA
 Point_Cloud_Q240_7_runs_public.laz: Sample LAS/LAZ file containing LiDAR point cloud data.
 Acknowledgements
 The LiDAR data used in this project is provided by https://quantum-systems.com/qube-240-2/
-License
+# License
 This project is licensed under the MIT License.
 
